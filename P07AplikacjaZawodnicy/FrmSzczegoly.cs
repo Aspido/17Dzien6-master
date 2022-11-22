@@ -72,7 +72,7 @@ namespace P07AplikacjaZawodnicy
         private void btnDodaj_Click(object sender, EventArgs e)
         {
             ZczytytajFormularz();
-            ////
+            ////er
             //ZawodnicyRepository nz = new ZawodnicyRepository();
             PolaczenieZBaza pb = new PolaczenieZBaza();
 
